@@ -87,7 +87,7 @@ cargo build
 target/debug/zksnark_coursework <source_file>
 ```
 
-Заранее убедитесь, что [Nova]((https://github.com/microsoft/Nova/tree/main)) установлена.
+Заранее убедитесь, что Nova (https://github.com/microsoft/Nova/tree/main) установлена.
 
 ## 4. Ансамбли R1CS
 
